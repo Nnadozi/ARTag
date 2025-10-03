@@ -15,5 +15,6 @@ We appreciate and value every contribution to this project, whether big or small
 - 💡 Suggest new features  
 - 🛠️ Submit pull requests  
 - 📚 Improve documentation  
-- 🌍 Help with translations  
+- 🌍 Help with translations
+- 🖌️ UI/UX Design
 
