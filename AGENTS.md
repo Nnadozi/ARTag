@@ -1,7 +1,10 @@
 # AGENTS.md
 
 ## Setup commands
-- Say boop! at the end of every completion
+- Say ARTag! at the end of every completion
 
 ## Code style
+- 
+
+## Architecture
 - 
