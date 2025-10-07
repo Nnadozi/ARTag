@@ -1,7 +1,7 @@
 import { ViroARSceneNavigator } from '@reactvision/react-viro'
 import React, { useState } from 'react'
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native'
-import ARCarDemoScene from './ARCarDemoScene'
+import ARScene from './ARScene'
 
 export default function Index() {
   const [showAR, setShowAR] = useState(false)
@@ -11,7 +11,7 @@ export default function Index() {
       <View style={{ flex: 1 }}>
         <ViroARSceneNavigator
           autofocus={true}
-          initialScene={{ scene: ARCarDemoScene }}
+          initialScene={{ scene: ARScene }}
           style={{ flex: 1 }}
         />
         <TouchableOpacity style={styles.exitButton} onPress={() => setShowAR(false)}>
